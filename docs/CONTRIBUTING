@@ -1,0 +1,17 @@
+Contribuição
+
+Cadastre seu usuário no evento https://hacktoberfest.digitalocean.com/.
+
+
+Localize um exemplo de avaliação de expressões da Linguagem de Restrições Sobre Objetos.
+Como referência, localize a documentação das ferramentas: Dresden OCL, Eclipse OCL, USE/UML.
+
+Serão aceitas solicitações de envio de contribuições que atendam um ou mais critérios a seguir:
+a) identificar documentação sobre um exemplo de uso de modelo e restrições;
+b) código fonte, modelos, restrições relacionadas ao item a)
+c) documentação: texto, diagramas, imagens atualizando documentação existente relacionada no item a)
+d) relatório de erro: mensagem de erro ou impedimento que documenta a impossibilidade de completar o exemplo
+e) relatório de sugestão: condições que contornam os problemas encontrados na versão atual das ferramentas e dependências.
+
+Ao localizar o exemplo, solicite a atualização do arquivo Exemplos.md.
+Ao contribuir, identifique um pacote para separar o material dos demais exemplos.
